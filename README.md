@@ -71,4 +71,4 @@
 |44|Patrick Hofbauer      | phofbauergit |<https://github.com/phofbauergit/my_website.git>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-22 |
 |45|Jamie McGraw      | jamiemacg93 |<https://github.com/jamiemacg93/mywebsite.git>  |<https://kostisportfolio-2021.netlify.app/>        |2023-05-25 |
 |46| Gonzalo Vidalon  | GonzaloVidalonV |  https://github.com/GonzaloVidalonV/Mywebsite |  https://gonzalo-vidalon-portfolio.netlify.app/    |2023-06-14 |
-
+|47| Joao Pereira   | joaomiguelgcrp |  https://github.com/Joaomiguelgcrp/my_website|  https://main--joaomiguelrodriguespereira.netlify.app/    |2023-06-15 |
